@@ -1,0 +1,153 @@
+C:\Users\Dang Huy\source\repos\CSDLNC\CSDLNC\bin\Debug\CSDLNC.exe.config
+C:\Users\Dang Huy\source\repos\CSDLNC\CSDLNC\bin\Debug\CSDLNC.exe
+C:\Users\Dang Huy\source\repos\CSDLNC\CSDLNC\bin\Debug\CSDLNC.pdb
+C:\Users\Dang Huy\source\repos\CSDLNC\CSDLNC\obj\Debug\CSDLNC.csproj.AssemblyReference.cache
+C:\Users\Dang Huy\source\repos\CSDLNC\CSDLNC\obj\Debug\CSDLNC.Form1.resources
+C:\Users\Dang Huy\source\repos\CSDLNC\CSDLNC\obj\Debug\CSDLNC.Properties.Resources.resources
+C:\Users\Dang Huy\source\repos\CSDLNC\CSDLNC\obj\Debug\CSDLNC.csproj.GenerateResource.cache
+C:\Users\Dang Huy\source\repos\CSDLNC\CSDLNC\obj\Debug\CSDLNC.csproj.CoreCompileInputs.cache
+C:\Users\Dang Huy\source\repos\CSDLNC\CSDLNC\obj\Debug\CSDLNC.exe
+C:\Users\Dang Huy\source\repos\CSDLNC\CSDLNC\obj\Debug\CSDLNC.pdb
+C:\Users\Dang Huy\source\repos\CSDLNC\CSDLNC\obj\Debug\CSDLNC.Form2.resources
+C:\Users\Dang Huy\source\repos\CSDLNC\CSDLNC\obj\Debug\CSDLNC.QTV_TK.resources
+C:\Users\Dang Huy\source\repos\CSDLNC\CSDLNC\obj\Debug\CSDLNC.QuanTriVien.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC\CSDLNC\bin\Debug\CSDLNC.exe.config
+C:\Users\Admin\Downloads\Compressed\CSDLNC\CSDLNC\bin\Debug\CSDLNC.exe
+C:\Users\Admin\Downloads\Compressed\CSDLNC\CSDLNC\bin\Debug\CSDLNC.pdb
+C:\Users\Admin\Downloads\Compressed\CSDLNC\CSDLNC\obj\Debug\CSDLNC.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Compressed\CSDLNC\CSDLNC\obj\Debug\CSDLNC.BenhNhanEdit.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC\CSDLNC\obj\Debug\CSDLNC.BenhNhanView.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC\CSDLNC\obj\Debug\CSDLNC.Form2.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC\CSDLNC\obj\Debug\CSDLNC.Form1.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC\CSDLNC\obj\Debug\CSDLNC.DonThuoc.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC\CSDLNC\obj\Debug\CSDLNC.DT_V_.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC\CSDLNC\obj\Debug\CSDLNC.DT_TT.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC\CSDLNC\obj\Debug\CSDLNC.DT.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC\CSDLNC\obj\Debug\CSDLNC.KHDT_V_.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC\CSDLNC\obj\Debug\CSDLNC.KHDT.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC\CSDLNC\obj\Debug\CSDLNC.NhanVien.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC\CSDLNC\obj\Debug\CSDLNC.Nhasi.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC\CSDLNC\obj\Debug\CSDLNC.Properties.Resources.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC\CSDLNC\obj\Debug\CSDLNC.QuanTriVien.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC\CSDLNC\obj\Debug\CSDLNC.ThanhToan.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC\CSDLNC\obj\Debug\CSDLNC.Tooth_V_.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC\CSDLNC\obj\Debug\CSDLNC.Tooth.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC\CSDLNC\obj\Debug\CSDLNC.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Compressed\CSDLNC\CSDLNC\obj\Debug\CSDLNC.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Compressed\CSDLNC\CSDLNC\obj\Debug\CSDLNC.exe
+C:\Users\Admin\Downloads\Compressed\CSDLNC\CSDLNC\obj\Debug\CSDLNC.pdb
+C:\Users\PC\Downloads\New folder (3)\CSDLNC\CSDLNC\bin\Debug\CSDLNC.exe.config
+C:\Users\PC\Downloads\New folder (3)\CSDLNC\CSDLNC\bin\Debug\CSDLNC.exe
+C:\Users\PC\Downloads\New folder (3)\CSDLNC\CSDLNC\bin\Debug\CSDLNC.pdb
+C:\Users\PC\Downloads\New folder (3)\CSDLNC\CSDLNC\obj\Debug\CSDLNC.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\New folder (3)\CSDLNC\CSDLNC\obj\Debug\CSDLNC.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Downloads\New folder (3)\CSDLNC\CSDLNC\obj\Debug\CSDLNC.BenhNhanEdit.resources
+C:\Users\PC\Downloads\New folder (3)\CSDLNC\CSDLNC\obj\Debug\CSDLNC.BenhNhanView.resources
+C:\Users\PC\Downloads\New folder (3)\CSDLNC\CSDLNC\obj\Debug\CSDLNC.Form2.resources
+C:\Users\PC\Downloads\New folder (3)\CSDLNC\CSDLNC\obj\Debug\CSDLNC.Form1.resources
+C:\Users\PC\Downloads\New folder (3)\CSDLNC\CSDLNC\obj\Debug\CSDLNC.DonThuoc.resources
+C:\Users\PC\Downloads\New folder (3)\CSDLNC\CSDLNC\obj\Debug\CSDLNC.DT_V_.resources
+C:\Users\PC\Downloads\New folder (3)\CSDLNC\CSDLNC\obj\Debug\CSDLNC.DT_TT.resources
+C:\Users\PC\Downloads\New folder (3)\CSDLNC\CSDLNC\obj\Debug\CSDLNC.DT.resources
+C:\Users\PC\Downloads\New folder (3)\CSDLNC\CSDLNC\obj\Debug\CSDLNC.KHDT_V_.resources
+C:\Users\PC\Downloads\New folder (3)\CSDLNC\CSDLNC\obj\Debug\CSDLNC.KHDT.resources
+C:\Users\PC\Downloads\New folder (3)\CSDLNC\CSDLNC\obj\Debug\CSDLNC.NhanVien.resources
+C:\Users\PC\Downloads\New folder (3)\CSDLNC\CSDLNC\obj\Debug\CSDLNC.Nhasi.resources
+C:\Users\PC\Downloads\New folder (3)\CSDLNC\CSDLNC\obj\Debug\CSDLNC.Properties.Resources.resources
+C:\Users\PC\Downloads\New folder (3)\CSDLNC\CSDLNC\obj\Debug\CSDLNC.QuanTriVien.resources
+C:\Users\PC\Downloads\New folder (3)\CSDLNC\CSDLNC\obj\Debug\CSDLNC.ThanhToan.resources
+C:\Users\PC\Downloads\New folder (3)\CSDLNC\CSDLNC\obj\Debug\CSDLNC.Tooth_V_.resources
+C:\Users\PC\Downloads\New folder (3)\CSDLNC\CSDLNC\obj\Debug\CSDLNC.Tooth.resources
+C:\Users\PC\Downloads\New folder (3)\CSDLNC\CSDLNC\obj\Debug\CSDLNC.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\New folder (3)\CSDLNC\CSDLNC\obj\Debug\CSDLNC.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\New folder (3)\CSDLNC\CSDLNC\obj\Debug\CSDLNC.exe
+C:\Users\PC\Downloads\New folder (3)\CSDLNC\CSDLNC\obj\Debug\CSDLNC.pdb
+D:\STUDIE\HTTT\CSDLNC\CSDLNC\bin\Debug\CSDLNC.exe.config
+D:\STUDIE\HTTT\CSDLNC\CSDLNC\bin\Debug\CSDLNC.exe
+D:\STUDIE\HTTT\CSDLNC\CSDLNC\bin\Debug\CSDLNC.pdb
+D:\STUDIE\HTTT\CSDLNC\CSDLNC\obj\Debug\CSDLNC.csproj.AssemblyReference.cache
+D:\STUDIE\HTTT\CSDLNC\CSDLNC\obj\Debug\CSDLNC.AddLichHen.resources
+D:\STUDIE\HTTT\CSDLNC\CSDLNC\obj\Debug\CSDLNC.BenhNhanEdit.resources
+D:\STUDIE\HTTT\CSDLNC\CSDLNC\obj\Debug\CSDLNC.BenhNhanView.resources
+D:\STUDIE\HTTT\CSDLNC\CSDLNC\obj\Debug\CSDLNC.Form2.resources
+D:\STUDIE\HTTT\CSDLNC\CSDLNC\obj\Debug\CSDLNC.Form1.resources
+D:\STUDIE\HTTT\CSDLNC\CSDLNC\obj\Debug\CSDLNC.DonThuoc.resources
+D:\STUDIE\HTTT\CSDLNC\CSDLNC\obj\Debug\CSDLNC.DT_V_.resources
+D:\STUDIE\HTTT\CSDLNC\CSDLNC\obj\Debug\CSDLNC.DT_TT.resources
+D:\STUDIE\HTTT\CSDLNC\CSDLNC\obj\Debug\CSDLNC.DT.resources
+D:\STUDIE\HTTT\CSDLNC\CSDLNC\obj\Debug\CSDLNC.KHDT_V_.resources
+D:\STUDIE\HTTT\CSDLNC\CSDLNC\obj\Debug\CSDLNC.KHDT.resources
+D:\STUDIE\HTTT\CSDLNC\CSDLNC\obj\Debug\CSDLNC.Lichlamviec.resources
+D:\STUDIE\HTTT\CSDLNC\CSDLNC\obj\Debug\CSDLNC.NhanVien.resources
+D:\STUDIE\HTTT\CSDLNC\CSDLNC\obj\Debug\CSDLNC.Nhasi.resources
+D:\STUDIE\HTTT\CSDLNC\CSDLNC\obj\Debug\CSDLNC.Properties.Resources.resources
+D:\STUDIE\HTTT\CSDLNC\CSDLNC\obj\Debug\CSDLNC.QuanTriVien.resources
+D:\STUDIE\HTTT\CSDLNC\CSDLNC\obj\Debug\CSDLNC.ThanhToan.resources
+D:\STUDIE\HTTT\CSDLNC\CSDLNC\obj\Debug\CSDLNC.Tooth_V_.resources
+D:\STUDIE\HTTT\CSDLNC\CSDLNC\obj\Debug\CSDLNC.Tooth.resources
+D:\STUDIE\HTTT\CSDLNC\CSDLNC\obj\Debug\CSDLNC.csproj.GenerateResource.cache
+D:\STUDIE\HTTT\CSDLNC\CSDLNC\obj\Debug\CSDLNC.csproj.CoreCompileInputs.cache
+D:\STUDIE\HTTT\CSDLNC\CSDLNC\obj\Debug\CSDLNC.exe
+D:\STUDIE\HTTT\CSDLNC\CSDLNC\obj\Debug\CSDLNC.pdb
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- Đã add lịch\CSDLNC\bin\Debug\CSDLNC.exe.config
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- Đã add lịch\CSDLNC\bin\Debug\CSDLNC.exe
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- Đã add lịch\CSDLNC\bin\Debug\CSDLNC.pdb
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- Đã add lịch\CSDLNC\obj\Debug\CSDLNC.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- Đã add lịch\CSDLNC\obj\Debug\CSDLNC.AddLichHen.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- Đã add lịch\CSDLNC\obj\Debug\CSDLNC.BenhNhanEdit.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- Đã add lịch\CSDLNC\obj\Debug\CSDLNC.BenhNhanView.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- Đã add lịch\CSDLNC\obj\Debug\CSDLNC.Form2.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- Đã add lịch\CSDLNC\obj\Debug\CSDLNC.Form1.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- Đã add lịch\CSDLNC\obj\Debug\CSDLNC.DonThuoc.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- Đã add lịch\CSDLNC\obj\Debug\CSDLNC.DT_V_.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- Đã add lịch\CSDLNC\obj\Debug\CSDLNC.DT_TT.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- Đã add lịch\CSDLNC\obj\Debug\CSDLNC.DT.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- Đã add lịch\CSDLNC\obj\Debug\CSDLNC.KHDT_V_.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- Đã add lịch\CSDLNC\obj\Debug\CSDLNC.KHDT.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- Đã add lịch\CSDLNC\obj\Debug\CSDLNC.Lichlamviec.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- Đã add lịch\CSDLNC\obj\Debug\CSDLNC.NhanVien.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- Đã add lịch\CSDLNC\obj\Debug\CSDLNC.Nhasi.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- Đã add lịch\CSDLNC\obj\Debug\CSDLNC.Properties.Resources.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- Đã add lịch\CSDLNC\obj\Debug\CSDLNC.QuanTriVien.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- Đã add lịch\CSDLNC\obj\Debug\CSDLNC.ThanhToan.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- Đã add lịch\CSDLNC\obj\Debug\CSDLNC.Tooth_V_.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- Đã add lịch\CSDLNC\obj\Debug\CSDLNC.Tooth.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- Đã add lịch\CSDLNC\obj\Debug\CSDLNC.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- Đã add lịch\CSDLNC\obj\Debug\CSDLNC.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- Đã add lịch\CSDLNC\obj\Debug\CSDLNC.exe
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- Đã add lịch\CSDLNC\obj\Debug\CSDLNC.pdb
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- Đã add lịch\CSDLNC\obj\Debug\CSDLNC.TT_V_.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- Đã add lịch\CSDLNC\obj\Debug\CSDLNC.TT.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- sap final\CSDLNC- Đã add lịch\CSDLNC\bin\Debug\CSDLNC.exe.config
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- sap final\CSDLNC- Đã add lịch\CSDLNC\bin\Debug\CSDLNC.exe
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- sap final\CSDLNC- Đã add lịch\CSDLNC\bin\Debug\CSDLNC.pdb
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- sap final\CSDLNC- Đã add lịch\CSDLNC\obj\Debug\CSDLNC.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- sap final\CSDLNC- Đã add lịch\CSDLNC\obj\Debug\CSDLNC.AddLichHen.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- sap final\CSDLNC- Đã add lịch\CSDLNC\obj\Debug\CSDLNC.BenhNhanEdit.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- sap final\CSDLNC- Đã add lịch\CSDLNC\obj\Debug\CSDLNC.BenhNhanView.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- sap final\CSDLNC- Đã add lịch\CSDLNC\obj\Debug\CSDLNC.Form2.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- sap final\CSDLNC- Đã add lịch\CSDLNC\obj\Debug\CSDLNC.Form1.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- sap final\CSDLNC- Đã add lịch\CSDLNC\obj\Debug\CSDLNC.DonThuoc.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- sap final\CSDLNC- Đã add lịch\CSDLNC\obj\Debug\CSDLNC.DT_V_.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- sap final\CSDLNC- Đã add lịch\CSDLNC\obj\Debug\CSDLNC.DT_TT.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- sap final\CSDLNC- Đã add lịch\CSDLNC\obj\Debug\CSDLNC.DT.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- sap final\CSDLNC- Đã add lịch\CSDLNC\obj\Debug\CSDLNC.KHDT_V_.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- sap final\CSDLNC- Đã add lịch\CSDLNC\obj\Debug\CSDLNC.KHDT.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- sap final\CSDLNC- Đã add lịch\CSDLNC\obj\Debug\CSDLNC.Lichlamviec.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- sap final\CSDLNC- Đã add lịch\CSDLNC\obj\Debug\CSDLNC.NhanVien.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- sap final\CSDLNC- Đã add lịch\CSDLNC\obj\Debug\CSDLNC.Nhasi.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- sap final\CSDLNC- Đã add lịch\CSDLNC\obj\Debug\CSDLNC.Properties.Resources.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- sap final\CSDLNC- Đã add lịch\CSDLNC\obj\Debug\CSDLNC.QuanTriVien.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- sap final\CSDLNC- Đã add lịch\CSDLNC\obj\Debug\CSDLNC.ThanhToan.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- sap final\CSDLNC- Đã add lịch\CSDLNC\obj\Debug\CSDLNC.Tooth_V_.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- sap final\CSDLNC- Đã add lịch\CSDLNC\obj\Debug\CSDLNC.Tooth.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- sap final\CSDLNC- Đã add lịch\CSDLNC\obj\Debug\CSDLNC.TT_V_.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- sap final\CSDLNC- Đã add lịch\CSDLNC\obj\Debug\CSDLNC.TT.resources
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- sap final\CSDLNC- Đã add lịch\CSDLNC\obj\Debug\CSDLNC.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- sap final\CSDLNC- Đã add lịch\CSDLNC\obj\Debug\CSDLNC.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- sap final\CSDLNC- Đã add lịch\CSDLNC\obj\Debug\CSDLNC.exe
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- sap final\CSDLNC- Đã add lịch\CSDLNC\obj\Debug\CSDLNC.pdb
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- sap final\CSDLNC- Đã add lịch\CSDLNC\bin\Debug\CSDLNC.exe.manifest
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- sap final\CSDLNC- Đã add lịch\CSDLNC\bin\Debug\CSDLNC.application
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- sap final\CSDLNC- Đã add lịch\CSDLNC\obj\Debug\CSDLNC.exe.manifest
+C:\Users\Admin\Downloads\Compressed\CSDLNC2\CSDLNC- sap final\CSDLNC- Đã add lịch\CSDLNC\obj\Debug\CSDLNC.application
